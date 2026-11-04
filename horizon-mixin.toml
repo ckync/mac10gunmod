@@ -2,10 +2,6 @@
 id = "mac10_mod"
 name = "MAC-10 Weapon Mod"
 version = "0.1.0"
-authors = ["themntz"]
 
 [target]
 entry = "src/lib.rs"
-
-[compatibility]
-horizon_revision = "6f8c7a0e5d531d3834c4d0be4659a1db8e7e5c2a"
