@@ -8,4 +8,4 @@ authors = ["themntz"]
 entry = "src/lib.rs"
 
 # [compatibility]
-# horizon_revision = "..."
+# horizon_revision = "67dad0d000000000000000000000000000000000"
