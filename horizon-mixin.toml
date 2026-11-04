@@ -7,5 +7,5 @@ authors = ["themntz"]
 [target]
 entry = "src/lib.rs"
 
-[compatibility]
-horizon_revision = "0000000000000000000000000000000000000000"
+# [compatibility]
+# horizon_revision = "..."
