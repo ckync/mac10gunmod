@@ -1,0 +1,7 @@
+[package]
+name = "mac10-mod"
+version = "0.1.0"
+authors = ["themntz"]
+
+[target]
+entry = "src/lib.rs"
