@@ -5,3 +5,9 @@ priority = 100
 
 [compatibility]
 horizon_revision = "6f8c7a0e5d531d3834c4d0be4659a1db8e7e5c2a"
+
+[[module]]
+id = "mac10"
+file = "crates/horizon-client/src/game.rs"
+name = "mac10"
+source = "mac10.rs"
