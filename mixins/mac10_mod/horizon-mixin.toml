@@ -1,6 +1,5 @@
 [mod]
 id = "mac10_mod"
-name = "MAC-10 Weapon Mod"
 version = "0.1.0"
 
 [target]
