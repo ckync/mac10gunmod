@@ -5,9 +5,3 @@ priority = 100
 
 [compatibility]
 horizon_revision = "6f8c7a0e5d531d3834c4d0be4659a1db8e7e5c2a"
-
-[[module]]
-id = "mac10_runtime"
-file = "src/lib.rs"
-name = "mac10_mod"
-source = "src/lib.rs"
