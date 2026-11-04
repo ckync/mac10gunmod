@@ -1,4 +1,3 @@
-Ini, TOML
 [mod]
 id = "mac10_mod"
 name = "MAC-10 Weapon Mod"
@@ -7,6 +6,3 @@ authors = ["themntz"]
 
 [target]
 entry = "src/lib.rs"
-
-[compatibility]
-horizon_revision = "67dad0d000000000000000000000000000000000"
